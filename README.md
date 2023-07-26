@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Student at Microverse<br>🤝 Collaborating with developers from all around the world<br>💡 Passionate about helping other developers<br>🔍 Currently seeking a role in the field<br>🔧 Experienced in: HTML, CSS, JavaScript, React, Redux, Ruby, Rails, Git
+🎓 Student at Microverse<br>🤝 Collaborating with developers from all around the world<br>💡 Passionate about helping other developers<br>🔍 Currently seeking a role in the field<br>🔧 Experienced in: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Ruby`, `Rails`, `Git`
 
 
 ## 🌐 Socials:
