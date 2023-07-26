@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <div align="center">
-  <img src="https://github.com/Atril33/Atril33/blob/main/github-profile-pic.png" width="100%" height="200px" />
+  <img src="https://github.com/Atril33/Atril33/blob/main/github-profile-pic.png" width="100%" height="auto" />
   </div>
   
 # 💫 About Me:
