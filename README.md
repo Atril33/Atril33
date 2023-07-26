@@ -1,3 +1,8 @@
+<a name="readme-top"></a>
+<div align="center">
+  <img src="https://github.com/Atril33/Atril33/blob/main/github-profile-pic.png" width="100%" height="auto" />
+  </div>
+  
 # 💫 About Me:
 🎓 Student at Microverse<br>🤝 Collaborating with developers from all around the world<br>💡 Passionate about helping other developers<br>🔍 Currently seeking a role in the field<br>🔧 Experienced in: `HTML`, `CSS`, `JavaScript`, `React`, `Redux`, `Ruby`, `Rails`, `Git`
 
